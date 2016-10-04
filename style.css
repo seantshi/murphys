@@ -1,0 +1,17 @@
+.fitted.item{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.background.image{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+.over.text{
+  color: white;
+  font-size: large;
+  text-align: justify;
+}
+.footer.text{
+  color: white;
+}
